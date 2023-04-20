@@ -20,7 +20,7 @@ namespace KID.TwoDHorizontal
 
         private EnergySystem energySystem;
         private int countEgg;
-        private int countEggMax = 10;
+        private int countEggMax = 3;
 
         private void Awake()
         {
